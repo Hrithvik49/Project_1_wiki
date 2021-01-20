@@ -31,22 +31,7 @@ The view should get the content of the encyclopedia entry by calling the appropr
   
 - Random Page: Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
 
-- Markdown to HTML Conversion: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the python-markdown2 package to perform this conversion, installable via pip3 install markdown2.
+- Markdown to HTML Conversion: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user. You may use the python-markdown2 package to perform this conversion, installable via pip3 install markdown.
 
-:computer: &nbsp; **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/UYJSRKNDG4s)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/CtuUdZtPxik)**
-
-&nbsp;
-
-### Contribute
-
-Contributions are always welcome! Please create a PR to contribute.
-
-### :pencil: &nbsp; License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
-### :man_astronaut: &nbsp; Show your support
-
-Give a ⭐️ if this project helped you!
